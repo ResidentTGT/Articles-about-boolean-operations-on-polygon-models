@@ -24,6 +24,7 @@
 
 <img src="./media/image1.png" width="340" height="319" align="left"/>Рис.1. Аппроксимация объекта с помощью четырех пространственных структур: AABB(а); сферы(б); OBB(в); k-dop(k=8)(г)
 
+
 ## **2. Структуры данных**
 
 ### **2.1 [BSP-trees(Naylor, 1990)](https://github.com/ResidentTGT/Doc/blob/master/merging%20bsp%20trees%20yields(naylor%201990).pdf)**
